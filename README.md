@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br /><br />
 
-# ARCHER2 MPI course (November 2024)
+# ARCHER2 MPI course (August 2025)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -28,7 +28,7 @@ datatypes, virtual topologies, collective communication and general
 design issues.
 
 This course will be run over two days, slightly shortert than the
-normal three-day format, usinga variety of methods including formal
+normal three-day format, using a variety of methods including formal
 lectures, practical exercises, programming examples and informal
 tutorial discussions. This enables lecture material to be supported by
 the tutored practical sessions in order to reinforce the key concepts.
@@ -55,15 +55,18 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates: </strong>26th - 27th November 2024, Birmingham
-<p><strong>Location: </strong>Elm House, Edgbaston Park, 351 Bristol Road
+<p><strong>Dates: </strong>18th - 19th August 2025, University of Leeds
+<p><strong>Location: </strong>LR C (2.08), School of Civil Engineering
 
 <h3>Timetable</h3>
 
-<h4>Tuesday 26th November</h4>
+<h4>Monday 18th August</h4>
 
 <ul>
-<li>    09:00 Logging on to ARCHER2 (you can skip this if you have successfully logged on already)
+
+<li> 09:00 Trainer available to help with practical issues such as
+logging on to ARCHER2 - <strong>feel free to skip this session and join for
+the first lecture at 09:30</strong>
 <li>    09:30 Message-Passing Concepts
 <li>    10:15 Practical: Parallel Traffic Modelling
 <li>    10:45 Break
@@ -79,7 +82,7 @@ MPI from Python.
 <li>    17:00 Finish
 </ul>
 
-<h4>Wednesday 27th November</h4>
+<h4>Tuesday 19th August</h4>
 
 <ul>
 
@@ -112,39 +115,39 @@ for private study. </blockquote></p>
 <h4>Day 1</h4>
 
 <ul>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L00-overview_3day.pdf">Overview of MPI course</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L01-mpconcepts.pdf">Message-Passing Concepts</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/E01-traffic.pdf">Parallel Traffic Modelling</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/road-solution.pdf">Parallel Traffic Modelling: solution</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L02-intro.pdf">MPI Programs</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L03-archer2-cirrus-mpi.pdf">MPI on Cirrus and ARCHER2</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L04-pt2pt.pdf">Point-to-Point Communication</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L06-modetagcomm.pdf">Communicators, Tags and Modes</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L00-overview_3day.pdf">Overview of MPI course</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L01-mpconcepts.pdf">Message-Passing Concepts</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/E01-traffic.pdf">Parallel Traffic Modelling</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/road-solution.pdf">Parallel Traffic Modelling: solution</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L02-intro.pdf">MPI Programs</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L03-archer2-cirrus-mpi.pdf">MPI on Cirrus and ARCHER2</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L04-pt2pt.pdf">Point-to-Point Communication</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L06-modetagcomm.pdf">Communicators, Tags and Modes</a>
 </ul>
 
 <h4>Day 2</h4>
 
 <ul>
 
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L07-nonblocking.pdf">Non-Blocking Communication</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L08-collective.pdf">Collective Communication</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L09-topology.pdf">Virtual Topologies</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L10-derivedtypes.pdf">Derived Data Types</a> 
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L11-casestudy.pdf">Case Study</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L07-nonblocking.pdf">Non-Blocking Communication</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L08-collective.pdf">Collective Communication</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L09-topology.pdf">Virtual Topologies</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L10-derivedtypes.pdf">Derived Data Types</a> 
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L11-casestudy.pdf">Case Study</a>
 
 </ul>
 
 <h4>Additional Material (not delivered as part of this course but included for reference)</h4>
 
 <ul>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/slides/L13-scaling.pdf">MPI Scaling</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/slides/L13-scaling.pdf">MPI Scaling</a>
 </ul>
 
 <h3>Notes</h3>
 
 <ul>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/notes/MPP-notes.pdf">MPI course notes (historical)</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/notes/MPP-notes.pdf">MPI course notes (historical)</a>
 </ul>
 
 <h3>Exercise Material</h3>
@@ -152,18 +155,18 @@ for private study. </blockquote></p>
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
 <ul>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/road.pdf">Traffic modelling exercise sheet</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/ARCHER2-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on ARCHER2</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-solutions.tar">Simple example solutions to all exercises</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-casestudy.pdf">Case Study exercise sheet</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-casestudy.tar.gz">Case Study source code</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-caseserial.tar">Simple Case Study solutions (serial)</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-casesolns.tar">Simple Case Study solutions (parallel)</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-arralloc.tar">Code for dynamic array allocation in C</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-11-26/raw/main/exercises/MPP-traffic.tar">Serial and parallel solutions to the traffic model</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/road.pdf">Traffic modelling exercise sheet</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/ARCHER2-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on ARCHER2</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-solutions.tar">Simple example solutions to all exercises</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-casestudy.pdf">Case Study exercise sheet</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-casestudy.tar.gz">Case Study source code</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-caseserial.tar">Simple Case Study solutions (serial)</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-casesolns.tar">Simple Case Study solutions (parallel)</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-arralloc.tar">Code for dynamic array allocation in C</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2025-08-18/raw/main/exercises/MPP-traffic.tar">Serial and parallel solutions to the traffic model</a></li>
 </ul>
 
 <h3>Installing MPI locally</h3>
