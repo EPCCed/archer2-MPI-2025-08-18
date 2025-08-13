@@ -65,7 +65,7 @@ MPI from Python.
 <ul>
 
 <li> 09:00 Trainer available to help with practical issues such as
-logging on to ARCHER2 - <strong>feel free to skip this session and join for
+logging on to ARCHER2<br><strong>Feel free to skip this session and join for
 the first lecture at 09:30</strong>
 <li>    09:30 Message-Passing Concepts
 <li>    10:15 Practical: Parallel Traffic Modelling
