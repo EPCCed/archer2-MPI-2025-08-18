@@ -53,8 +53,6 @@ Pre-requisite Programming Languages:
 C, C++ or Fortran. The course does not cover the details of how to use
 MPI from Python.
 
-[Link Text](#timetable)
-
 <h2>Message Passing Programming with MPI</h2>
 
 <p><strong>Dates: </strong>18th - 19th August 2025, University of Leeds
