@@ -105,6 +105,14 @@ the first lecture at 09:30</strong>
 
 </ul>
 
+<h4>Wednesday 27th August (online turorial session)</h4>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=6QU7sv2KgCY">Recording of "Tips abd Tricks" lecture from online course in 2022.
+
+</ul>
+
 <h3>Lecture Slides</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
