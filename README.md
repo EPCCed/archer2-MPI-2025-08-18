@@ -109,7 +109,7 @@ the first lecture at 09:30</strong>
 
 <ul>
 
-<li><a href="https://www.youtube.com/watch?v=6QU7sv2KgCY">Recording of "Tips abd Tricks" lecture from online course in 2022.
+<li><a href="https://www.youtube.com/watch?v=6QU7sv2KgCY">Recording of "Tips and Tricks" lecture from online course in 2022
 
 </ul>
 
