@@ -105,7 +105,7 @@ the first lecture at 09:30</strong>
 
 </ul>
 
-<h4>Wednesday 27th August (online turorial session)</h4>
+<h4>Wednesday 27th August (online tutorial session)</h4>
 
 <ul>
 
